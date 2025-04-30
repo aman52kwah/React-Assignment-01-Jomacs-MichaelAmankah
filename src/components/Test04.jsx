@@ -3,8 +3,8 @@ function Test04() {
     <div>
       <label htmlFor="email">Email:</label>
       <input type="text" id="email" />
-    </div>
-  );
+    </div>  
+);
 }
 
 export default Test04;
