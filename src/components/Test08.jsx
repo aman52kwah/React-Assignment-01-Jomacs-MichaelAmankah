@@ -10,7 +10,7 @@ function Test08() {
       <ul>
         <li>Orange</li>
         <li>Mango</li>
-        <li>Banana</li>
+        <li>Apple</li>
       </ul>
     </>
   );
