@@ -4,6 +4,7 @@ function Test03() {
       <img src="logo.png" />
       <p>React Logo</p>
     </div>
+    
   );
 }
 
