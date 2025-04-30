@@ -6,7 +6,13 @@ Use JSX to render a <ul> list of three favorite fruits.
 
 function Test08() {
   return (
-    // Your code here
+    <>
+      <ul>
+        <li>Orange</li>
+        <li>Mango</li>
+        <li>Banana</li>
+      </ul>
+    </>
   );
 }
 

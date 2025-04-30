@@ -8,7 +8,11 @@ function Test09() {
   const name = "Jomacs";
 
   return (
-    // Your code here
+    <div>
+      <button onClick={() => alert(`You Clicked ${name}`)}>
+        Click {name}!
+      </button>
+    </div>
   );
 }
 
