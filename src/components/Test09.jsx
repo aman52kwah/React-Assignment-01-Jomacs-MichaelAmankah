@@ -9,7 +9,7 @@ function Test09() {
 
   return (
     <div>
-      <button onClick={() => alert(`You Clicked ${name}`)}>
+      <button onClick={() => alert(`You Clicked ${name}!`)}>
         Click {name}!
       </button>
     </div>
